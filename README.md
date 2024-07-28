@@ -11,22 +11,17 @@
 </p>
 
 ![](https://raw.githubusercontent.com/Zhang-Yu001/Zhang-Yu001/main/dist/github-contribution-grid-snake.svg)
+
 ## 📈Statistics
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--   profile-night-rainbow.svg -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=Zhang-Yu001" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=Zhang-Yu001&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177&row=1" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-Yu001" />
 </div>
 
 ## 🛠️Languages:
@@ -36,12 +31,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) -->
 
 ## 🛠️Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -55,26 +44,7 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
 
-## 🛠️Software:
-![Alipay](https://img.shields.io/badge/Alipay-00A1E9?style=flat-square&logo=Alipay&logoColor=white)
-![QQ](https://img.shields.io/badge/QQ-EB1923?style=flat-square&logo=TencentQQ&logoColor=white)
-![Qzone](https://img.shields.io/badge/Qzone-FECE00?style=flat-square&logo=Qzone&logoColor=white)
-
-## 🎮️Gaming:
-<!-- ![Counter-Strike](https://img.shields.io/badge/Counter-Strike-000000?style=flat-square&logo=Counter-Strike&logoColor=white)
-![ESEA](https://img.shields.io/badge/ESEA-0E9648?style=flat-square&logo=ESEA&logoColor=white)
-![ESL](https://img.shields.io/badge/ESL-FFFF09?style=flat-square&logo=ESLGaming&logoColor=white) -->
-
 ## 💻Environment:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-
-<!-- ## 📧Contact me:
-- Personal website: [![website](https://img.shields.io/badge/fjqz177.top-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://fjqz177.top)
-- Twitter: [![Twitter](https://img.shields.io/badge/@fjqz177-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fjqz177) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@fjqz177-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/5862441076)
-- Email: [![Email](https://img.shields.io/badge/fjqz177@139.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fjqz177@139.com) -->
-
-<!-- ## My program -->
-<!-- [![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=Python-Program)](https://github.com/fjqz177/Python-Program) -->
