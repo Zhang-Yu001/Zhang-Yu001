@@ -10,6 +10,14 @@
     <a title="weibo" target="_blank" href="https://weibo.com/87021009/profile"><img src="https://img.shields.io/badge/dynamic/json?labelColor=e71f19&color=353940&label=Weibo&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D87021009&logo=sina-weibo&longCache=true"></a>
 </p>
 
+<br/>
+
+
+- 📖  Study at Tongji University, Shanghai
+- 🎓  Major in Computer Science and Technology
+- ⚡  C++ and Python
+
+Study at Tongji University, Shanghai, 
 ![](https://raw.githubusercontent.com/Zhang-Yu001/Zhang-Yu001/main/dist/github-contribution-grid-snake.svg)
 
 ## 📈Statistics
