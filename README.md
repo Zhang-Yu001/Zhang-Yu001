@@ -12,10 +12,14 @@
 
 <br/>
 
-
 - 📖  Study at Tongji University, Shanghai
 - 🎓  Major in Computer Science and Technology
 - ⚡  C++ and Python
+
+
+![](https://raw.githubusercontent.com/Zhang-Yu001/Zhang-Yu001/main/dist/github-contribution-grid-snake.svg)
+
+## 📈Statistics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2014%20mins-blue)
@@ -86,10 +90,6 @@ Python                   1 repo              ████████░░░�
 
  Last Updated on 31/07/2024 04:16:11 UTC
 <!--END_SECTION:waka-->
-
-![](https://raw.githubusercontent.com/Zhang-Yu001/Zhang-Yu001/main/dist/github-contribution-grid-snake.svg)
-
-## 📈Statistics
 
 <div align="center">
 <span>&emsp;&emsp;</span>
