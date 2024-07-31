@@ -17,6 +17,9 @@
 - 🎓  Major in Computer Science and Technology
 - ⚡  C++ and Python
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://raw.githubusercontent.com/Zhang-Yu001/Zhang-Yu001/main/dist/github-contribution-grid-snake.svg)
 
 ## 📈Statistics
