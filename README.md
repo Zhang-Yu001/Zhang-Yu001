@@ -18,6 +18,73 @@
 - ⚡  C++ and Python
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2014%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-246-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 244.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+🌆 Daytime                18 commits          ███████████░░░░░░░░░░░░░░   45.00 % 
+🌃 Evening                6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌙 Night                  9 commits           ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   16 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+Tuesday                  7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Wednesday                9 commits           ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+
+ Last Updated on 31/07/2024 04:16:11 UTC
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/Zhang-Yu001/Zhang-Yu001/main/dist/github-contribution-grid-snake.svg)
