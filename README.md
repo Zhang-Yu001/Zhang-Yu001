@@ -22,13 +22,15 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,16 +65,18 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      29 mins             ███████████████████████░░   93.70 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+新建文件夹                    26 mins             █████████████████████░░░░   83.68 % 
+Unknown Project          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +91,7 @@ HTML                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 11/03/2025 18:44:08 UTC
+ Last Updated on 12/03/2025 18:44:03 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
